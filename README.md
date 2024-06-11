@@ -1,4 +1,3 @@
----
 # Gabriel Andrés Archilla Cintron
 - [Biografia](#biografia)
 - [Lenguajes de Programacion Trabajados](#lenguajes-de-programacion-trabajados)
