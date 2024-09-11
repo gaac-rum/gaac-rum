@@ -47,5 +47,6 @@ Samir Y. Ali Rivera - [samiralirivera](https://github.com/samiralirivera)<br>
 Axel Negrón Vega - [Axel-Negron](https://github.com/Axel-Negron)<br> 
 Yanishka Ruiz Nazario - [YanehRuiz](https://github.com/YanehRuiz)<br> 
 Gabriel A. Archilla Cintrón - [gaac-rum](https://github.com/gaac-rum)<br>
+- *Repository*: [hotel-analytical-system-db-beasts](https://github.com/CIIC4060-ICOM5016-SPRING-2024/hotel-analytical-system-db-beasts)<br>
 
 ---
